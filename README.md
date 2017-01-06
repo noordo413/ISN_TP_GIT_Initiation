@@ -81,4 +81,5 @@
 ## Liste des élèves de TS ayant réussi ce TP
 --------------------------------------------
 
-* GM alias noordo400.
+* GM alias noordo400,
+* SS alias noordo413.
